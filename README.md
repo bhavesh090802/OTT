@@ -1,7 +1,9 @@
 # OTT
 Make changes in assets folder and make the directories as in the html files
 make directory app to store signup.php file
-make directory assets to store images and css files
+make directory assets to store images and css files.
+##Image credits doesn't belong to me.
+
 ![subscription-details](https://github.com/bhavesh090802/OTT/assets/124791411/5bcca9c5-e0f8-4b2d-bc76-5b71f7cff8db)
 ![subscription ](https://github.com/bhavesh090802/OTT/assets/124791411/1ddf306c-5d11-4996-90dc-a2c77145ea26)
 ![sign up ](https://github.com/bhavesh090802/OTT/assets/124791411/5ba767aa-a919-4160-967d-7ecb6be5cabf)
